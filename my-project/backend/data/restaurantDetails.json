@@ -1,0 +1,313 @@
+{
+  "10583": {
+    "id": "10583",
+    "name": "Pizza Hut",
+    "city": "Bangalore",
+    "locality": "Coles Road",
+    "areaName": "Frazer Town",
+    "costForTwo": "35000",
+    "costForTwoMessage": "₹350 for two",
+    "cuisines": ["Pizzas"],
+    "avgRating": 4.2,
+
+    "categories": [
+      {
+        "title": "Recommended",
+        "itemCards": [
+          {
+            "id": "125367738",
+            "name": "Margherita",
+            "description": "Pizza topped with our herb-infused signature pan sauce and mozzarella cheese. A classic treat for all cheese lovers out there! (PAN Per/Med-292 Kcal/100g | TnC-293 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/41b56b0c-c864-4081-8c9c-ed4585cb3a5c_e725dfb8-341d-4ef3-9914-e7a2634187aa.jpg",
+            "price": 16900,
+            "isVeg": true,
+            "inStock": 1,
+            "rating": "4.0",
+            "ratingCount": "606 ratings",
+            "ratingCountV2": "606",
+            "promoted": "true"
+          },
+          {
+            "id": "47542683",
+            "name": "Veggie Feast",
+            "description": "Serves 1 | Herbed onion and green capsicum, juicy sweet corn & mozzarella cheese with flavourful pan sauce (PAN Per/Med-269 Kcal/100g | TnC-274 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/185b654c-4ff2-42ca-991e-11caf0781cb5_9fd71142-80db-4471-bec2-f80db3b1e08f.jpg",
+            "inStock": 1,
+            "isVeg": 1,
+            "rating": "3.6",
+            "ratingCount": "145 ratings",
+            "ratingCountV2": "145",
+            "price": 269,
+            "promoted": "false"
+          },
+          {
+            "id": "47542680",
+            "name": "Tandoori Paneer",
+            "description": "Serves 1 | It's our signature. Spiced paneer, crunchy onions & green capsicum, spicy red paprika with delicious tandoori sauce and mozzarella cheese! (PAN Per/Med-335 Kcal/100g | TnC-326 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/413649b2-52b2-42d8-afcf-fff2174192b2_71809375-48ba-48f6-bdba-b464956098bb.jpg",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 329,
+            "rating": "4.3",
+            "ratingCount": "180 ratings",
+            "ratingCountV2": "180",
+            "promoted": "true"
+          },
+          {
+            "id": "47542667",
+            "name": "Country Feast",
+            "description": "Serves 1 | Loaded with herbed onion & green capsicum, sweet corn, tomato with signature pan sauce and mozzarella cheese. It's a feast you can't refuse (PAN Per/Med-244 Kcal/100g | TnC-282 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/40b16d1c-c89d-4938-8a34-031e6792ee0f_3b7f3b2b-cd20-47c0-b68e-9740ee2c3c6a.jpg",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 329,
+            "rating": "3.0",
+            "ratingCount": "44 ratings",
+            "ratingCountV2": "44",
+            "promoted": "false"
+          },
+          {
+            "id": "99811075",
+            "name": "Veggie Supreme",
+            "description": "Serves 1 | A supreme combination of black olives, green capsicum, mushroom, onion, spicy red paprika & juicy sweet corn with flavourful pan sauce and mozzarella cheese. (PAN Per/Med-254 Kcal/100g | TnC-258 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/497f5159-0ffd-4f0f-ba40-9411e04bf4c1_80ec6a1d-5289-4d2c-b143-74e57132937a.jpg",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 379,
+            "rating": "4.3",
+            "ratingCount": "172 ratings",
+            "ratingCountV2": "172",
+            "promoted": "false"
+          },
+          {
+            "id": "47542659",
+            "name": "Chicken Sausage",
+            "category": "Non Veg Pizza",
+            "description": "Serves 1 | Pizza topped with chicken n cheese sausages & crunchy onions, flavourful pan sauce and mozzarella cheese (PAN Per/Med-310 Kcal/100g | TnC-312 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza| Stuff Crust Chicken Seekh Kebab Add : Per: 389 kcal/Pizza | Med: 614 Kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/12/587afcd6-e8d7-47b3-b8b2-0e6ed49b49e1_4bf7d761-f113-45ae-907b-f086e78d9fbf.jpg",
+            "inStock": 1,
+            "rating": "4.2",
+            "ratingCount": "126 ratings",
+            "ratingCountV2": "126",
+            "price": 259,
+            "promoted": "true"
+          },
+          {
+            "id": "72273162",
+            "name": "Murg Malai Chicken",
+            "category": "Non Veg Pizza",
+            "description": "Serves 1 | Amazingly flavourful chicken malai tikka, herbed onion & green capsicum, spicy red paprika with flavourful pan sauce and mozzarella cheese (PAN Per/Med-269 Kcal/100g | TnC-299 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza| Stuff Crust Chicken Seekh Kebab Add : Per: 389 kcal/Pizza | Med: 614 Kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/0727a66a-07ce-4ff6-8ffb-ec2d070aab85_055da41f-a59a-49a2-8524-975e3f59d6d7.jpg",
+            "inStock": 1,
+            "rating": "2.9",
+            "ratingCount": "29 ratings",
+            "ratingCountV2": "29",
+            "price": 379,
+            "promoted": "false"
+          },
+
+          {
+            "id": "125367735",
+            "name": "Chicken Supreme",
+            "category": "Non Veg Pizza",
+            "description": "Serves 1 | Loaded with delicious chicken tikka, flavourful herbed chicken, spicy schezwan chicken meatball with flavourful pan sauce and mozzarella cheese. (PAN Per/Med-273 Kcal/100g | TnC-284 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza| Stuff Crust Chicken Seekh Kebab Add : Per: 389 kcal/Pizza | Med: 614 Kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/9cb9383d-5776-450a-91c9-51cd839c55b1_6eed4f34-f7a7-4f67-abfa-649de5903176.jpg",
+            "inStock": 1,
+            "rating": "4.7",
+            "ratingCount": "134 ratings",
+            "ratingCountV2": "134",
+            "price": 399
+          }
+        ]
+      },
+      {
+        "title": "Ultimate Cheese Crust Pizza",
+        "itemCards": [
+          {
+            "id": "183136431",
+            "name": "Margherita Ultimate Cheese Pizza",
+            "description": "Serves 1 | Classic cheese pizza with extra molten cheese and a melty gooey Cheese Crown on the crust, you’ll want to Flip to the Cheese first. (283.9Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/01afa1cd-c806-4f75-9223-cf5742b8b179_e25d901a-0448-4f0c-bab1-37fa3f497f8c.jpg_compressed",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 244,
+            "rating": "5.0",
+            "ratingCount": "706 ratings",
+            "ratingCountV2": "206"
+          },
+          {
+            "id": "183136436",
+            "name": "Tandoori Paneer Ultimate Cheese Pizza",
+            "description": "Serves 1 | Spiced paneer, paprika, onions, capsicum, tandoori sauce, extra molten cheese and a melty gooey cheese crown on the crust, you’ll want to Flip to the Cheese first. (345.4Kcal/100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/22/feb4705b-1f7a-4f28-aeb3-ab5b072b47c8_caee536d-2261-44f2-bfda-190f8a01c4ea.jpg",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 514,
+            "rating": "4.0",
+            "ratingCount": "7456 ratings",
+            "ratingCountV2": "2456"
+          },
+          {
+            "id": "183136454",
+            "name": "Veggie Supreme Ultimate Cheese Pizza",
+            "description": "Serves 1 | Black olives, green capsicum, mushroom, onion, red paprika, sweet corn, extra molten cheese and a melty gooey Cheese Crown on the crust, you’ll want to Flip to the Cheese first. (252.6Kcal /100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/3ad85e04-e749-483e-9f1b-b38dbbe4b79b_fd578096-296a-4057-982b-29ffb1a5e1a2.jpg_compressed",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 514,
+            "rating": "4.5",
+            "ratingCount": "105 ratings",
+            "ratingCountV2": "154"
+          },
+          {
+            "id": "183136424",
+            "name": "Chicken Sausage Ultimate Cheese Pizza",
+            "category": "Ultimate Cheese Crust Pizza",
+            "description": "Serves 1 | Chicken sausage, onion, extra molten cheese and a melty gooey Cheese Crown on the crust, you’ll want to Flip to the Cheese first. (295Kcal / 100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/718928b4-25f3-464c-8d0f-5a71e9b60480_a0d0c41c-32f3-4733-9d1f-5092b7b7e2a4.jpg_compressed",
+            "inStock": 1,
+            "price": 400,
+            "rating": "3",
+            "ratingCount": "1548 ratings",
+            "ratingCountV2": "15478"
+          },
+          {
+            "id": "183136429",
+            "name": "Chicken Tikka Ultimate Cheese Pizza",
+            "category": "Ultimate Cheese Crust Pizza",
+            "description": "Serves 1 | Tandoori-spiced chicken tikka, onion, tomato, tandoori sauce, extra molten cheese and a melty gooey cheese crown on the crust, you’ll want to Flip to the Cheese first. (277.7Kcal / 100gm). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/2e4d485b-62cc-460b-a30f-7a8a3457deba_ab88789e-fabf-4c7f-8e5d-84bf824bbb08.jpg_compressed",
+            "inStock": 1,
+            "price": 450,
+            "rating": "3",
+            "ratingCount": "45 ratings",
+            "ratingCountV2": "1548"
+          }
+        ]
+      },
+      {
+        "title": "Veg Pizza",
+        "itemCards": [
+          {
+            "id": "116284234",
+            "name": "Schezwan Margherita",
+            "category": "Veg Pizza",
+            "description": "Serves 2 | Your very own margherita, now with a spicy twist! Loaded with our signature spicy schezwan sauce & mozzarella cheese (PAN Per/Med-300 Kcal/100g | TnC-309 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/8c79185c-df58-4044-86ae-8322cc5947a4_d8ad2531-f0d8-4361-a0c3-a180b8495c78.jpg",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 244,
+            "rating": "5.0",
+            "ratingCount": "706 ratings",
+            "ratingCountV2": "206"
+          },
+          {
+            "id": "116284237",
+            "name": "Mexican Fiesta",
+            "category": "Veg Pizza",
+            "description": "Serves 1 | Flavourful mix of red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn and mozzarella cheese with a signature spice sprinkle & our flavourful pan sauce (PAN Per/Med-266 Kcal/100g | TnC-258 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/8/3311bf48-ec4a-4e0e-99ef-b218c3ff5d7d_646aaaad-189c-4aeb-a5d0-2a9d20ff6177.jpg",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 244,
+            "rating": "5.0",
+            "ratingCount": "706 ratings",
+            "ratingCountV2": "206"
+          },
+          {
+            "id": "135318688",
+            "name": "Bold BBQ Veggies",
+            "category": "Veg Pizza",
+            "description": "Serves 1 | Our signature pan sauce, with BBQ Sauce drizzle, topped with mushroom, onion, green capsicum, & red paprika (PAN Per/Med-242 Kcal/100g | TnC-266 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/2d4957b4-bcc9-4a98-92dc-9f1696eb345d_77276353-9872-4a38-b01e-70eda38e8692.jpg",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 244,
+            "rating": "5.0",
+            "ratingCount": "706 ratings",
+            "ratingCountV2": "206"
+          },
+          {
+            "id": "116284242",
+            "name": "Ultimate Tandoori Veggie",
+            "category": "Veg Pizza",
+            "description": "Serves 1 | An ultimate combination of your favourite veggies-onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with mozzarella cheese & generous drizzle of mint mayo (PAN Per/Med-314 Kcal/100g | TnC-395 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/0798a913-dd5e-4963-b69a-944150f96f87_f5906d7a-6c8e-44df-9ac9-026787ed19d0.jpg",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 244,
+            "rating": "5.0",
+            "ratingCount": "706 ratings",
+            "ratingCountV2": "206"
+          },
+          {
+            "id": "116284245",
+            "name": "Mazedar Makhni Paneer",
+            "category": "Veg Pizza",
+            "description": "Serves 1 | A treat for all makhni lovers. Spiced paneer, onion, juicy red bell peppers with our new flavourful makhni sauce, topped with mozzarella cheese and buttery spice sprinkle (PAN Per/Med-288 Kcal/100g | TnC-290 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/12/7d78c5df-d657-4e18-befc-b22a71de742b_a1fffa5c-76b4-4726-98da-0cbd4b118b4b.jpg_compressed",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 244,
+            "rating": "5.0",
+            "ratingCount": "706 ratings",
+            "ratingCountV2": "206"
+          }
+        ]
+      },
+      {
+        "title": "Non Veg Pizza",
+        "itemCards": [
+          {
+            "id": "125372107",
+            "name": "Sausage & Sweet Corn.",
+            "category": "Non Veg Pizza",
+            "description": "Serves 1 | Our classic chicken & cheese sausage, juicy sweet corn and mozzarella cheese with flavourful pan sauce (PAN Per/Med-277 Kcal/100g | TnC-282 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza| Stuff Crust Chicken Seekh Kebab Add : Per: 389 kcal/Pizza | Med: 614 Kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/ecf1fe37-7b35-480c-a657-ed5d323740dd_b05e05ce-6f6a-43cb-a3cf-7c8a2de63833.jpg",
+            "inStock": 1,
+            "price": 244,
+            "rating": "5.0",
+            "ratingCount": "706 ratings",
+            "ratingCountV2": "206"
+          },
+          {
+            "id": "116284328",
+            "name": "Dhabe Da Keema",
+            "category": "Non Veg Pizza",
+            "description": "Serves 1 | Dhaba style chicken keema masala, with green chiili, crunchy onion with flavourful pan sauce, 100 % mozzarella cheese & a generous drizzle of mint mayo (PAN Per/Med-270 Kcal/100g | TnC-290 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza| Stuff Crust Chicken Seekh Kebab Add : Per: 389 kcal/Pizza | Med: 614 Kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/130fcc38-5a87-473b-b3c9-aa3fb8a9ba2f_3fc34c60-e803-465f-a277-e809c0bb5ac3.jpg",
+            "inStock": 1,
+            "price": 244,
+            "rating": "5.0",
+            "ratingCount": "706 ratings",
+            "ratingCountV2": "206"
+          },
+          {
+            "id": "116284335",
+            "name": "Sizzling Schezwan Chicken",
+            "category": "Non Veg Pizza",
+            "description": "Serves 1 | Loaded with our signature spicy schezwan sauce, juicy schezwan chicken meatballs & mozzarella cheese (PAN Per/Med-277 Kcal/100g | TnC-286 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza| Stuff Crust Chicken Seekh Kebab Add : Per: 389 kcal/Pizza | Med: 614 Kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/9f7e5745-c67b-40c0-83bf-b32e6a81c7a9_de734418-0f87-47d8-8445-9c21f585428b.jpg",
+            "inStock": 1,
+            "price": 244,
+            "rating": "5.0",
+            "ratingCount": "706 ratings",
+            "ratingCountV2": "206"
+          },
+          {
+            "id": "116284346",
+            "name": "Nawabi Murg Makhni",
+            "category": "Non Veg Pizza",
+            "description": "Serves 1 | A chicken lovers delight! Combination of chicken malai tikka, flavourful chicken keema masala, crunchy onion, juicy tomato on our new makhni sauce with mozzarella cheese and buttery spice sprinkle (PAN Per/Med-252 Kcal/100g | TnC-269 Kcal/100g | Stuffed Crust Add : Per: 295 Kcal/Pizza | Med: 448kcal/Pizza| Ultimate Cheese : PER: 250 kcal/Pizza | MED: 375 kcal/Pizza| Stuff Crust Chicken Seekh Kebab Add : Per: 389 kcal/Pizza | Med: 614 Kcal/Pizza. Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/5/b65c0eb6-d2d2-4d81-95f5-75bd91f218ec_df76b11d-6e07-4b7f-9903-455d7768fa52.jpg",
+            "inStock": 1,
+            "price": 244,
+            "rating": "5.0",
+            "ratingCount": "706 ratings",
+            "ratingCountV2": "206"
+          }
+        ]
+      }
+    ]
+  }
+}
