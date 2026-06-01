@@ -7,6 +7,7 @@ import App from "./App.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Body from "./component/Body.jsx";
 import RestaurantMenu from "./component/RestaurantMenu.jsx";
+import Cart from "./component/Cart.jsx";
 
 const AppRouter = createBrowserRouter([
   {
@@ -24,6 +25,10 @@ const AppRouter = createBrowserRouter([
       {
         path: "/home",
         element: <Body />,
+      },
+      {
+        path: "/cart",
+        element: <Cart />,
       },
       {
         path: "/reataurants/:resId",

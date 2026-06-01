@@ -3,11 +3,13 @@ import { LOGO_URL } from "../constants/endpoint";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
 import UserContext from "../utils/UserContext";
+import { useSelector } from "react-redux";
 
 function Header({ restroList, setSearchFilter }) {
   const [logbtn, setLogbtn] = useState("Login");
 
   const onlineStatus = useOnlineStatus();
+  const cartitem = useSelector((store) => store.cart.items);
   const { LoggedInUserName } = useContext(UserContext);
   return (
     <div>
@@ -52,6 +54,12 @@ function Header({ restroList, setSearchFilter }) {
                 </Link>
               </li>
             </ul>
+            <Link to="/cart" class="nav-link" href="#">
+              <div className="mx-4">
+                Cart:<i class="fa-solid fa-cart-arrow-down"></i>
+                {cartitem.length}
+              </div>
+            </Link>
             <span>{LoggedInUserName}</span>
           </div>
         </div>
